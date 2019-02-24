@@ -1,0 +1,4 @@
+Name: Watch source
+Description: Uses knit_watch at source file location
+Binding: watch_source
+Interactive: false
